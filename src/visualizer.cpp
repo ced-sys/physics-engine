@@ -1,4 +1,4 @@
-#include <SLD2/SDL.h>
+#include <SDL2/SDL.h>
 #include "rigidbody.hpp"
 
 const int WINDOW_WIDTH=800;
